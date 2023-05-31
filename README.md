@@ -8,6 +8,10 @@ The main page (here you can view the list of meetups):
 The add meetup page (here you can add the new meetup to the list):
 ![image](https://github.com/oleksandrDiabliuk/nextjs-demo/assets/56929527/de9d03a7-82f8-4e47-8c0e-786c431bdd51)
 
+The meetup details page (here you can see the details of the meetup):
+![image](https://github.com/oleksandrDiabliuk/nextjs-demo/assets/56929527/49a13ca5-6290-4bc0-8fad-480de6b876c2)
+
+
 NOTE! The data is stored in a MongoDB database
 
 ## Getting Started
