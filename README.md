@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+General preview: 
+
+The main page (here you can view the list of meetups):
+![image](https://github.com/oleksandrDiabliuk/nextjs-demo/assets/56929527/411ad9a5-67b9-4a76-89d4-3860f3a9451a)
+
+The add meetup page (here you can add the new meetup to the list):
+![image](https://github.com/oleksandrDiabliuk/nextjs-demo/assets/56929527/de9d03a7-82f8-4e47-8c0e-786c431bdd51)
+
+NOTE! The data is stored in a MongoDB database
+
 ## Getting Started
 
 First, run the development server:
